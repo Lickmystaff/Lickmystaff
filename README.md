@@ -9,8 +9,8 @@
 <body>
 
 <div class="header">
-    <h1>My GitHub Profile</h1>
-    <p>HTML senior developer</p>
+    <h1>HTML senior developer</h1>
+    <p>My GitHub Profile</p>
 </div>
 
 </body>
